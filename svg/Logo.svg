@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128.293" height="59" viewBox="0 0 128.293 59">
+  <g id="Logo" transform="translate(-65 -62)">
+    <g id="Face" transform="translate(-49 4.348)">
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="7.337" height="25.678" rx="3.668" transform="translate(225.759 66.848)" fill="#fff"/>
+      <rect id="Rectangle_2" data-name="Rectangle 2" width="7.337" height="25.678" rx="3.668" transform="translate(212.92 66.848)" fill="#fff"/>
+      <path id="Path_1" data-name="Path 1" d="M182.37,134.122s.259,7.962,6.689,12.433a17.509,17.509,0,0,0,10.208,2.8c16.4,0,16.9-15.231,16.9-15.231" transform="translate(24.13 -41.596)" fill="none" stroke="#fff" stroke-width="4"/>
+    </g>
+    <text id="LW" transform="translate(65 109)" fill="#fff" font-size="49" font-family="Montserrat-Bold, Montserrat" font-weight="700"><tspan x="0" y="0">LW</tspan></text>
+  </g>
+</svg>

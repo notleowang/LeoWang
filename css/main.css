@@ -1,0 +1,74 @@
+:root {
+  --background-color: #121212;
+  --purp-color: #BB86FC;
+  --cyan-color: #03DAC6;
+  --red-color: #CF6679;
+  --yel-color: #FAC739;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  background-color: var(--background-color);
+  font-family: 'Montserrat';
+  color: white;
+}
+
+header {
+  margin-top: 112px;
+}
+
+header .logo {
+  margin-left: 254px;
+}
+
+.main-container {
+  margin: 0 254px;
+}
+
+.hero {
+  margin-top: 5em;
+}
+
+.hero-container {
+  text-align: center;
+}
+
+.title-container {
+  margin-top: 15em;
+  text-align: center;
+}
+
+h1 {
+  font-size: 45px;
+}
+
+h1 .name {
+  color: var(--red-color);
+  font-weight: bold;
+}
+
+h2 {
+  font-weight: 500;
+}
+
+.about-section-container {
+  margin-top: 8em;
+  background-color: grey;
+  height: 250px;
+}
+
+.about-section-container h2 {
+  color: var(--red-color);
+  font-size: 30px;
+  -webkit-transform: rotate(-90deg);
+          transform: rotate(-90deg);
+  -webkit-transform-origin: 0;
+          transform-origin: 0;
+}
+/*# sourceMappingURL=main.css.map */

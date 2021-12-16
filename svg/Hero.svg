@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="659" height="330" viewBox="0 0 659 330">
+  <text id="while_alive_make_coffee_code_sleep_" data-name="while (alive) {
+       make_coffee();
+       code();
+       //sleep();}" transform="translate(0 52)" fill="#bb86fc" font-size="57" font-family="Consolas"><tspan x="0" y="0">while (alive) {</tspan><tspan x="0" y="66" xml:space="preserve">       make_coffee();</tspan><tspan x="0" y="132" xml:space="preserve">       code();</tspan><tspan x="0" y="198" xml:space="preserve">       </tspan><tspan y="198" fill="#4e4e4e">//sleep();</tspan><tspan y="198" fill="#cf6679"></tspan><tspan x="0" y="264">}</tspan></text>
+</svg>
